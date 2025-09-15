@@ -53,19 +53,19 @@ body {
     content: 'total:';
 }
 button{
-    width: 100%;
+    width: 20%;
     height: 30px;
     border: none;
     cursor: pointer;
-    background: #390053;
-    color: #fff;
+    background: #4b5300;
+    color: #9e0303;
     border-radius: 20px;
     transition: 0.5s;
     text-transform: uppercase;
 }
 button:hover{
-    background:#51025f;
-    letter-spacing: 1px;
+    background:#5f0202;
+    letter-spacing: 20px;
 }
 /*the end inputs*/
 /*the start btnSearch*/
@@ -79,17 +79,7 @@ button:hover{
 #deleteAll{
     margin: 20px 0;
 }
-table{
-    width: 100%;
-    text-align: center;
-    margin: 10px 0;
-}
-table th{
-    text-transform: uppercase;
-}
-th,td{
-    padding: 5px;
-}
+
 
 /* the end btnSearch*/
 
